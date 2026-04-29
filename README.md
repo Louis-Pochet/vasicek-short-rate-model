@@ -1,4 +1,5 @@
 # Short-Rate Modeling and Zero-Coupon Bond Pricing under the Vasicek Framework
+![Tests](https://github.com/Louis-Pochet/vasicek-short-rate-model/actions/workflows/tests.yml/badge.svg)
 
 This project implements the Vasicek short-rate model within an affine term structure framework.  
 It combines exact stochastic simulation, analytical bond pricing, Monte Carlo validation, and parameter calibration in a structured quantitative finance setting.
